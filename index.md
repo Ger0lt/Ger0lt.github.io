@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Who is Travis?
 
-You can use the [editor on GitHub](https://github.com/Ger0lt/Ger0lt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Travis Trout is an Advertising major from the University of Florida. He has over two years of experience in Web Design with Wordpress, but is now transitioning into Web Development by learning how to make Custom Plugins with PHP, improving Custom CSS usage, programming with web APIs, and interacting with MySQL servers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What has he done?
 
-### Markdown
+Travis has worked primarily in Panama City Beach, Florida designing and implementing SEO for the following websites:
+* [Sharky's Beach Restaurant](https://sharkysbeach.com)
+* [Rock'It Lanes Bowling Alley](https://rockitlanes.com)
+* [Seahaven Resorts](https://seahavenbeach.com)
+* [Smity's Barbecue](https://smittysbarbecue.com)
+* [Ara Lake Camp](https://aralakecamp.com)
+* [Riverview Plastic Surgery](https://riverviewplastics.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Along with their design, he also edited many of the images using Photoshop.
 
-```markdown
-Syntax highlighted code block
+# What is he doing now?
 
-# Header 1
-## Header 2
-### Header 3
+Travis is currently developing a website called [Silent.marketing](https://silent.marketing).
+This is his own personal project with the goal of becoming the basis for an independent company.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ger0lt/Ger0lt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It requires more skills than he currently has practiced, resulting in slower development time. Regardless, the following has been achieved:
+ - [x] Established web hosting with a custom domain and DNSSEC as well as SSL security.
+ - [x] Created a custom plugin hooked into Woocommerce that will allow dynamic pricing based on text input.
+ - [x] Connected plugin to multiple social-networking web APIs.
+ - [ ] Compare user input with existing items in MySQL database.
+ - [ ] Create a webcrawler that can pull from MySQL database.
+ 
+ So far, he has had to restart his program three times, resulting in him learning how to program in bash, Javafx, CURL, PHP, and FTP.
+ 
+ If you are interested in learning more about Silent.marketing, or would like to get in touch with Travis, he can be contacted at:
+ ~~~
+ travis@silent.marketing
+ 540-498-2608
+ ~~~
