@@ -26,7 +26,7 @@ It requires more skills than he currently has practiced, resulting in slower dev
  - [ ] Compare user input with existing items in MySQL database.
  - [ ] Create a webcrawler that can pull from MySQL database.
  
- So far, he has had to restart his program three times, resulting in him learning how to program in bash, Javafx, CURL, PHP, and FTP.
+ So far, he has had to restart his program three times, resulting in him learning how to use bash, Javafx, CURL, PHP, and FTP.
  
  If you are interested in learning more about Silent.marketing, or would like to get in touch with Travis, he can be contacted at:
  ~~~
