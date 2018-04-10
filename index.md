@@ -4,7 +4,7 @@ Every business from startup to corporate needs a website. Although I just entere
 
 # Who is Travis?
 
-Travis Trout is an Advertising major from the University of Florida. He has over two years of experience in Web Design with Wordpress, but is now transitioning into Web Development by learning how to make Custom Plugins with PHP, improving Custom CSS usage, programming with web APIs, and interacting with MySQL servers.
+Travis Trout is an advertising major from the University of Florida. He has over two years of experience in Web Design with Wordpress, but is now transitioning into Web Development by learning how to make Custom Plugins with PHP, improving Custom CSS usage, programming with web APIs, and interacting with MySQL servers.
 
 # What has he done?
 
