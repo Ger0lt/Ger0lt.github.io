@@ -1,3 +1,7 @@
+# Hello.
+
+Every business from startup to corporate needs a website. Although I just entered this industry, I've already designed six websites and won three golden Addy awards from the American Advertising Federation. I know how to not just make a website using Wordpress, but also how to implement effective SEO and social media intergration. I hope to keep learning new skills in this industry, with the goal of eventually being able to comfortably transfer any idea I have into a tangible website.
+
 # Who is Travis?
 
 Travis Trout is an Advertising major from the University of Florida. He has over two years of experience in Web Design with Wordpress, but is now transitioning into Web Development by learning how to make Custom Plugins with PHP, improving Custom CSS usage, programming with web APIs, and interacting with MySQL servers.
